@@ -1,1 +1,1 @@
-<?php echo "HOLA" ;?>
+<?php echo "Hola mundo" ;?>
